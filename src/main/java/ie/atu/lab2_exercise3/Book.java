@@ -8,6 +8,7 @@ import lombok.NoArgsConstructor;
 //@NoArgsConstructor
 //@AllArgsConstructor
 //Step 1 says to include getters and setters
+
 public class Book {
     private String name;
     private String email;
