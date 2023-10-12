@@ -14,6 +14,7 @@ public class LibraryService {
         library.add(book);
     }
     public List<Book> getBooks(){
+        System.out.println(library);
         return library;
     }
 
